@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Baking Tutorial</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="servings_label">Servings:</string>
+    <string name="recipe_icon_description">Recipe Icon</string>
+    <string name="step_number_format">Step: %1$d</string>
+    <string name="recipe_step_tab_label">Step: <xliff:g id="count">%d</xliff:g></string>
+    <string name="loading_data_error">Requested data not found in database.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipes_info">Choose any one of these recipes to show it\'s ingredients on app widget or click on the recipe to show details of it.</string>
+    <string name="ingredients_list_label">Ingredients List</string>
+
+</resources>
