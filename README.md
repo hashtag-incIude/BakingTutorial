@@ -10,4 +10,4 @@ This is a rewrite of the Baking App project from the Udacity Android Nanodegree 
 
 Screenshots
 
-![](screenshot/main.jpg) ![](screenshot/details.jpg)  ![](screenshot/video.jpg)
+![](screenshot/main.jpg) ![](screenshot/details.jpg)  ![](video.jpg)
