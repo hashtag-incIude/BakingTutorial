@@ -1,5 +1,5 @@
 # BakingTutorial
-The task is to create a Android Baking App that will allow Udacity resident baker-in-chief, Miriam, to share her recipes with the world. You will create an app that will allow a user to select a recipe and see video-guided steps for how to complete it.
+The task is to create a Android Baking App that will allow Udacity resident baker-in-chief, AK, to share her recipes with the world. You will create an app that will allow a user to select a recipe and see video-guided steps for how to complete it.
 
 
 BakingApp
@@ -10,4 +10,4 @@ This is a rewrite of the Baking App project from the Udacity Android Nanodegree 
 
 Screenshots
 
-![](screenshot/main.jpeg) ![](screenshot/details.jpeg)  ![](screenshot/video(1).jpeg)
+![](screenshot/main.jpg) ![](screenshot/details.jpg)  ![](screenshot/video(1).jpg)
